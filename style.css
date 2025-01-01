@@ -41,7 +41,9 @@ main {
   align-items: center;
   padding: 1rem; /* اضافه کردن padding */
 }
-
+section.right {
+    font-size: 18px;
+}
 /* ELEMENTS STYLE */
 h1 {
   font-size: 3rem; /* کاهش اندازه فونت */
