@@ -111,7 +111,11 @@ h1 {
   margin-bottom: 4rem; /* کاهش فاصله */
   height: 2rem; /* کاهش ارتفاع */
 }
+.mobin {
+ color: #fffff
+font-size: 2rem
 
+}
 .label-score, .label-highscore {
   margin-bottom: 1rem; /* کاهش فاصله */
 }
